@@ -1,0 +1,15 @@
+{
+  "tahmidenv": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyreactapp-tahmidenv-202526-authRole",
+      "UnauthRoleArn": "arn:aws:iam::167687795518:role/amplify-amplifyreactapp-tahmidenv-202526-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::167687795518:role/amplify-amplifyreactapp-tahmidenv-202526-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-amplifyreactapp-tahmidenv-202526-deployment",
+      "UnauthRoleName": "amplify-amplifyreactapp-tahmidenv-202526-unauthRole",
+      "StackName": "amplify-amplifyreactapp-tahmidenv-202526",
+      "StackId": "arn:aws:cloudformation:us-west-2:167687795518:stack/amplify-amplifyreactapp-tahmidenv-202526/eb582460-737a-11ed-bb61-028178a2344b",
+      "AmplifyAppId": "d5ce9k9pnzdmz"
+    }
+  }
+}
