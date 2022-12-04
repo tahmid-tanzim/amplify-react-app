@@ -7,9 +7,14 @@ cd amplify-react-app
 npm start
 ```
 
-### Initialize Amplify
+### 2. Initialize Amplify
 ```shell
 amplify init
 ```
 
-### Show details in CloudFormation & AWS Amplify
+### 3. Show details in CloudFormation & AWS Amplify
+
+### 4. Adding API
+```shell
+amplify add api
+```
